@@ -33,7 +33,6 @@ console.log(multipliedIntegerz2);
 
 // Then output (either in the DOM or the console) the sum of all the resulting numbers
 
-
 function sum (a,b){
   return a + b;
 }
